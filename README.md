@@ -1,4 +1,5 @@
 ## Walker Kugel
+I am a student at George Washington Carver Center for Arts and Technology. I will be a freshman at UMBC next year. I love the process of retro programming and making video games.
 
 ## My Projects
 
@@ -8,7 +9,7 @@
 - Mio
   - Troll program, writes an image to the screen. Uses its own compression algorithm to store the image within 64KB.
 - Cup Catch
-  - A game where you catch a ball in a cup.
+  - A game where you catch a falling ball by moving around a cup.
 - 9 + 10
   - Troll program, will install itself and give incorrect math answers.
 
