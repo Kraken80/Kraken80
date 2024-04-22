@@ -7,6 +7,8 @@
   - This program allows you to edit ez80 code on the calculator itself.
 - Mio
   - Troll program, writes an image to the screen. Uses its own compression algorithm to store the image within 64KB.
+- Cup Catch
+  - A game where you catch a ball in a cup.
 - 9 + 10
   - Troll program, will install itself and give incorrect math answers.
 
