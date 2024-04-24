@@ -3,6 +3,10 @@ I am a student at George Washington Carver Center for Arts and Technology. I wil
 
 ## My Projects
 
+### C Programs
+- Disaster Island (unfinished)
+  - A 2D platformer game. This game randomly generates its world. Uses the OpenGL, SDL2, and Freetype libraries.
+
 ### TI-84 Assembler Programs
 - Assembler (unfinished)
   - This program allows you to edit ez80 code on the calculator itself.
@@ -16,10 +20,6 @@ I am a student at George Washington Carver Center for Arts and Technology. I wil
 ### 6502 Programs
 - Dungeon (unfinished)
   - A 2D top-down game where you evade a ghost. Made for the Nintendo Entertainment System, which used a 6502 variant.
-
-### C Programs
-- Disaster Island (unfinished)
-  - A 2D platformer game. This game randomly generates its world. Uses the OpenGL, SDL2, and Freetype libraries.
 
 ### Unity Programs
 - Rebirth (unfinished)
