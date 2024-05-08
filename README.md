@@ -16,7 +16,7 @@ I am a student at George Washington Carver Center for Arts and Technology. I wil
   - Troll program, writes an image to the screen. Uses its own compression algorithm to store the image within 64KB.
 - [Cup Catch](https://github.com/Kraken80/Kraken80/tree/main/cup_catch)
   - A game where you catch a falling ball by moving around a cup.
-- 9 + 10
+- [9 + 10](https://github.com/Kraken80/Kraken80/tree/main/nine_plus_ten)
   - Troll program, will install itself and give incorrect math answers.
 
 ### 6502 Programs
