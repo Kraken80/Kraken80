@@ -14,7 +14,7 @@ I am a student at George Washington Carver Center for Arts and Technology. I wil
   - This program allows you to edit ez80 code on the calculator itself.
 - Mio
   - Troll program, writes an image to the screen. Uses its own compression algorithm to store the image within 64KB.
-- Cup Catch
+- [Cup Catch](https://github.com/Kraken80/Kraken80/tree/main/cup_catch)
   - A game where you catch a falling ball by moving around a cup.
 - 9 + 10
   - Troll program, will install itself and give incorrect math answers.
