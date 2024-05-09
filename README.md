@@ -29,6 +29,6 @@ I am a student at George Washington Carver Center for Arts and Technology. I wil
   - Platformer RPG where you become what you kill. I did the programming, my friend did assets.
 
 ![Screenshot of ARROWS, the renassiance themed update of LASERS](images/Lasers.png)
-[Play LASERS here!](https://kraken80.github.io/arrows_mobile/index.html)
+[Play LASERS here!](https://kraken80.github.io/Kraken80/arrows_mobile/index.html)
 - LASERS
   - A top-down game where you avoid lasers all over the screen.
