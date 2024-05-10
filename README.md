@@ -1,7 +1,7 @@
 ## Walker Kugel
 WalkerK3@protonmail.com
 
-I am a student at George Washington Carver Center for Arts and Technology. I will be a freshman at UMBC next year. I love the process of retro programming and making video games.
+I am a student at George Washington Carver Center for Arts and Technology. I will be a freshman at UMBC next year. I love retro programming and making video games.
 
 ## My Projects
 
